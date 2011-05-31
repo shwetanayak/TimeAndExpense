@@ -1,0 +1,8 @@
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense.Tests\bin\Debug\TimeAndExpense.Tests.dll
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense.Tests\bin\Debug\TimeAndExpense.Tests.pdb
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense.Tests\bin\Debug\nunit.mocks.dll
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense.Tests\obj\Debug\TimeAndExpense.Tests.dll
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense.Tests\obj\Debug\TimeAndExpense.Tests.pdb

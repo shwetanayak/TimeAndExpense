@@ -7,8 +7,28 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/d:Controllers/f:HomeController.cs" caret="335" fromTop="13" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/f:Global.asax.cs" caret="780" fromTop="23" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/d:Models/f:AccountModels.cs" caret="4326" fromTop="19" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/d:Controllers/f:AccountController.cs" caret="1291" fromTop="43" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/f:Web.config" caret="112" fromTop="3" />
+      <File id="404CD437-CF9A-4C7A-A1E0-1234D4D26734/f:AuthenticationControllerTest.cs" caret="230" fromTop="11" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/d:Views/d:Shared/f:TimeAndExpense.Master" caret="317" fromTop="6" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/d:Views/d:Authentication/f:Login.aspx" caret="339" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/f:Web.config" caret="2347" fromTop="20" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/f:Web.config" caret="2347" fromTop="26" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/f:Web.config" caret="265" fromTop="9" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/f:Web.config" caret="2490" fromTop="43" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/f:Web.config" caret="2347" fromTop="11" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/f:Web.config" caret="3340" fromTop="23" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/f:Web.config" caret="2347" fromTop="12" />
+      <File id="404CD437-CF9A-4C7A-A1E0-1234D4D26734/f:AuthenticationControllerTest.cs" caret="230" fromTop="11" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/d:Views/d:Authentication/f:Login.aspx" caret="62" fromTop="0" />
+      <File id="0F10401E-1BF1-4003-8B36-11F9F306E53D/d:Views/d:Authentication/f:Login.aspx" caret="321" fromTop="4" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -17,8 +37,14 @@
     <Providers />
   </UnitTestRunner>
   <UnitTestRunnerNUnit>
-    <NUnitInstallDir IsNull="False">
-    </NUnitInstallDir>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="Test" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="0F10401E-1BF1-4003-8B36-11F9F306E53D" ModuleId="TimeAndExpense" />
+  <Module PersistentId="404CD437-CF9A-4C7A-A1E0-1234D4D26734" ModuleId="TimeAndExpense.Tests" />
 </Modules>
