@@ -1,0 +1,5 @@
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense\bin\TimeAndExpense.dll
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense\bin\TimeAndExpense.pdb
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense\obj\Debug\TimeAndExpense.dll
+C:\Projects\TimeAndExpense\TimeAndExpense\TimeAndExpense\obj\Debug\TimeAndExpense.pdb
